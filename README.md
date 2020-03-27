@@ -77,7 +77,7 @@ During the lifespan of the feature development, the lead should watch the `maste
 
 * Must branch from: `master`
 * Must merge back into: `master`
-* Branch naming convention: `feature-<tbd number>`
+* Branch naming convention: `feature-<tbd number/page-name/function>`
 
 #### Working with a feature branch
 

@@ -32,7 +32,12 @@
     <tr>
       <td>Hotfix</td>
       <td>hotfix-*</td>
-      <td>Always branch off Stable</td>
+      <td>Always branch off Develop</td>
+    </tr>
+    <tr>
+      <td>Bug</td> 
+      <td>bug-#number</td>
+      <td>Always branch off Develop</td>
     </tr>
   </tbody>
 </table>
